@@ -6,7 +6,7 @@ Feel free to take a look into my projects, I'm always open for any feedback.
 
 Steam: soleroks
 Discord: soleroks#1614
-RI
+
 
 
 
