@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi, you can call me Soleroks.
+
+I'm a 17 y.o high schooler from Turkey. I do coding as a hobby since 2020. 
+
+Feel free to take a look into my projects, I'm always open for any feedback. 
+
+Steam: soleroks
+Discord: soleroks#1614
+RI
+
+
 
 <!--
 **soleroks/soleroks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
