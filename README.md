@@ -1,6 +1,6 @@
 ## Hi, you can call me Soleroks.
 
-I'm a 17 y.o high schooler from Turkey. I do coding as a hobby since 2020. 
+I'm a 17 y.o amateur developer from Turkey. I do coding as a hobby since 2020. 
 
 Feel free to take a look into my projects, I'm always open for any feedback. 
 <!--
