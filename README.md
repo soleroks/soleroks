@@ -1,12 +1,10 @@
-# Hoş geldin 
+# Hoş geldin 👌
 
-*İsmim Emir, backend geliştirmeyle uğraşıyorum.*
+*İsmim Emir, backend geliştiriciyim.* 
 
-*Şu aralar Chariot uygulama ailesiyle uğraşıyorum.*
+[soleroks/Chariot Discord](https://discord.gg/Tdn3U4dFut) 🤺
 
-[soleroks/Chariot Discord](https://discord.gg/Tdn3U4dFut)
-
-[soleroks-requiem NPM](https://www.npmjs.com/package/soleroks-requiem)
+[soleroks-requiem NPM](https://www.npmjs.com/package/soleroks-requiem) 📦
 
 ![](https://komarev.com/ghpvc/?username=soleroks)
 
