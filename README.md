@@ -6,7 +6,7 @@
 
 [requiem NPM](https://www.npmjs.com/package/soleroks-requiem) 📦
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=soleroks)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=soleroks)
 
