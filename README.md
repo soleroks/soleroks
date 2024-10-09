@@ -1,12 +1,17 @@
-# Hoş geldin 👌
+# Hi! 👋
 
-*İsmim Emir, backend geliştiriciyim.* 
+**Hi, I'm Emir.**  
+I'm interested building scalable, secure systems.
 
-[Chariot Discord](https://discord.gg/Tdn3U4dFut) 🤺
+---
 
-[requiem NPM](https://www.npmjs.com/package/soleroks-requiem) 📦
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soleroks&show_icons=true&theme=dark)
+### GitHub Stats  
+![Emir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soleroks&show_icons=true&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=soleroks)
+![Profile Views](https://komarev.com/ghpvc/?username=soleroks)
 
+</div>
+
+Feel free to connect or check out my work!
