@@ -16,7 +16,7 @@
 ### Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,c,express,mongodb,postgres,sqlite,redis,js,ts,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,nodejs,c,cpp,asm,html,css,python,express,mongodb,postgres,sqlite,redis,js,ts,bash,linux" />
 </p>
 
 ---
@@ -30,9 +30,9 @@
 
 ---
 
-### ✉️ Contact
-- 💬 Ask me about anything: [GitHub Discussions](https://github.com/soleroks/soleroks/discussions)
-- 🌍 Portfolio: [emiraktas.dev](https://emiraktas.dev)
+###  Contact
+- Ask me about anything: [GitHub Discussions](https://github.com/soleroks/soleroks/discussions)
+- Portfolio: [emiraktas.dev](https://emiraktas.dev)
 
 ---
 
