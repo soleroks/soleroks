@@ -1,14 +1,14 @@
-## Hi there 👋 I'm [Emir Aktaş] —Backend Developer & Systems Architect
+[Emir Aktaş] —Backend Developer & Systems Architect
 
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=soleroks&style=flat-square&color=blue)
 
 ###  About Me
 
--  Currently building smart integrations & automation tools.
+-  Specializing in high-performance backend systems.
 -  Exploring **distributed systems**, **event-driven architecture**, and **low-latency Node.js** services.
 -  Focused on **backend development**, but comfortable across the stack.
--  Favorite stack: `Node.js`, `Express`, `MongoDB`, `PostgreSQL`, `Electron`,`
+-  Favorite stack: `Node.js`, `Express`, `MongoDB`, `PostgreSQL`, `Electron`
 -  _“I'm not your average JavaScript Developer.”_
 
 ---
@@ -31,8 +31,6 @@
 ---
 
 ### ✉️ Contact
-
-- 📫 Reach me via email: `yourname@domain.com`
 - 💬 Ask me about anything: [GitHub Discussions](https://github.com/soleroks/soleroks/discussions)
 - 🌍 Portfolio: [emiraktas.dev](https://emiraktas.dev)
 
