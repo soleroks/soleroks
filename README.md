@@ -1,4 +1,4 @@
-<h1 align="center">Emir Aktaş — Backend Developer & Systems Architect</h1>
+<h1 align="center">emir — Backend Developer & Systems Architect</h1>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
